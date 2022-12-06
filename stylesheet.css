@@ -1,0 +1,12 @@
+.nav-link {
+	width: 150px;
+	border: solid white 1px;
+	padding: 0px;
+	background: black;
+	text-align: center;
+}
+
+.carouselExampleInterval {
+	height: 500px;
+	width: 500px;
+}
