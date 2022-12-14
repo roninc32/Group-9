@@ -1,6 +1,14 @@
+/* CSS for images */
+
 img {
 	height: 600;
 	width: 1000px;
+}
+
+/* CSS for body*/
+
+.body {
+	background-color: black;
 }
 
 /* footer CSS */
