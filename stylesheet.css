@@ -45,7 +45,7 @@ img {
 }
   
 @media (max-width:767px) {
-	.footer-dark .item: not(.social) {
+	.footer-dark .item:not(.social) {
 	  text-align: center;
 	  padding-bottom: 20px;
 	}
