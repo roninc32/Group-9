@@ -104,3 +104,8 @@ img {
 }
 
   /* CSS for paragraphs */
+
+.p1 {
+	text-align: center;
+	color: #fff;
+}
