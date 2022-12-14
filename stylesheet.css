@@ -44,21 +44,8 @@ img {
 	opacity: 0.8;
 }
   
-@media (max-width:767px) {
-	.footer-dark .item:not(.social) {
-	  text-align: center;
-	  padding-bottom: 20px;
-	}
-}
-  
 .footer-black .item.text {
 	margin-bottom: 36px;
-}
-  
-@media (max-width:767px) {
-	.footer-black .item.text {
-	  margin-bottom: 0;
-	}
 }
   
   .footer-black .item.text p {
@@ -68,13 +55,6 @@ img {
   
 .footer-black .item.social {
 	text-align: center;
-}
-  
-@media (max-width:991px) {
-	.footer-black .item.social {
-	  text-align: center;
-	  margin-top: 20px;
-	}
 }
   
 .footer-black .item.social > a {
